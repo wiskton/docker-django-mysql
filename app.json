@@ -1,0 +1,8 @@
+{
+    "name": "Start on Heroku: Python",
+    "description": "example - project django and mysql",
+    "image": "heroku/python",
+    "repository": "https://github.com/heroku/willemallan",
+    "keywords": ["python", "django", "mysql" ],
+    "addons": [ "django-heroku-mysql" ]
+  }
