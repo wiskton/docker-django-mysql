@@ -1,6 +1,0 @@
-deployment:
-  production:
-    branch: master
-    commands:
-      - ./heroku_deploy.sh:
-          timeout: 300
